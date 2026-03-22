@@ -1,0 +1,12 @@
+C:\Users\Slava\Desktop\АППЗ\Lab3\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slava\Desktop\АППЗ\Lab3\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Slava\Desktop\АППЗ\Lab3\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+C:\Users\Slava\Desktop\АППЗ\Lab3\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\АППЗ\Lab3\DAL\bin\Debug\net9.0\DAL.deps.json
+C:\Users\Slava\Desktop\АППЗ\Lab3\DAL\bin\Debug\net9.0\DAL.dll
+C:\Users\Slava\Desktop\АППЗ\Lab3\DAL\bin\Debug\net9.0\DAL.pdb
+C:\Users\Slava\Desktop\АППЗ\Lab3\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Slava\Desktop\АППЗ\Lab3\DAL\obj\Debug\net9.0\DAL.dll
+C:\Users\Slava\Desktop\АППЗ\Lab3\DAL\obj\Debug\net9.0\refint\DAL.dll
+C:\Users\Slava\Desktop\АППЗ\Lab3\DAL\obj\Debug\net9.0\DAL.pdb
+C:\Users\Slava\Desktop\АППЗ\Lab3\DAL\obj\Debug\net9.0\ref\DAL.dll
