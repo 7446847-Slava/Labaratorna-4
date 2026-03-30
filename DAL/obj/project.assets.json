@@ -1118,11 +1118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab3\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab4\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab3\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab4\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Slava\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab3\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab4\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Slava\\AppData\\Roaming\\NuGet\\NuGet.Config"

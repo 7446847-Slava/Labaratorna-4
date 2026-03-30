@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FHnzPmpOD3Y=",
+  "dgSpecHash": "rUqE3Gm/Yic=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab3\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab4\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Slava\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.2\\microsoft.data.sqlite.core.9.0.2.nupkg.sha512",
     "C:\\Users\\Slava\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.2\\microsoft.entityframeworkcore.9.0.2.nupkg.sha512",

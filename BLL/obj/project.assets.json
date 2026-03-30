@@ -1136,11 +1136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab3\\BLL\\BLL.csproj",
+      "projectUniqueName": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab4\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab3\\BLL\\BLL.csproj",
+      "projectPath": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab4\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\Slava\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab3\\BLL\\obj\\",
+      "outputPath": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab4\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Slava\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1155,8 +1155,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab3\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab3\\DAL\\DAL.csproj"
+            "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab4\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\Slava\\Desktop\\АППЗ\\Lab4\\DAL\\DAL.csproj"
             }
           }
         }
